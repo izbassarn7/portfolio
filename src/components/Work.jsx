@@ -83,7 +83,7 @@ function Work() {
               HTML/CSS Portfolio
             </span>
             <div className="pt-8 text-center">
-              <a href="https://izbassarn.online/">
+              <a href="https://izbassar-portfolio.netlify.app/">
                 <button className="items-center text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold">
                   Live
                 </button>
