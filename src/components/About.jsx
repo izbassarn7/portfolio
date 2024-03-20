@@ -10,13 +10,10 @@ function About() {
             <h2 className="text-4xl font-bold mb-4 primary-color">About me</h2>
             <p className="text-base lg:text-lg text-white right-10">
               {' '}
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-              sunt in culpa qui officia deserunt mollit anim id est laborum.
+              Motivated 4th year student at SDU seeking React developer
+              opportunities in Kazakhstan. Passionate about creating
+              high-quality web experiences and eager to contribute to innovative
+              companies.
             </p>
           </div>
         </div>
