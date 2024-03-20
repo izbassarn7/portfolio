@@ -94,7 +94,7 @@ function Work() {
         <div
           className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
         shadow-lg shadow=[#040c16] group container rounded-md flex justify-center items-center
-        h-[200px] bg-cover tracking-wider col-start-2
+        h-[200px] bg-cover tracking-wider sm:col-start-2
         "
         >
           <img src={proj4} alt="project1" />
