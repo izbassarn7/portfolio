@@ -11,7 +11,7 @@ const Footer = () => {
         <p className="text-gray-600">izbassarnurlan@gmail.com</p>
 
         <a
-          href="https://t.me/your_telegram_username"
+          href="https://t.me/izbassarn"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-sky-500"
@@ -20,7 +20,7 @@ const Footer = () => {
         </a>
 
         <a
-          href="https://wa.me/1234567890?text=Hello%20Izbassar"
+          href="https://wa.me/77071927449?text=Hello%20Izbassar"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-emerald-500"

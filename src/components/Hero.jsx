@@ -36,13 +36,13 @@ const Hero = () => {
 
         <div className="py-8">
           <a
-            href="/"
+            href="https://drive.google.com/file/d/1bDuE-i92opD_CaA-1c8MOevw1T47f96M/view?usp=sharing"
             className="px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-blue-600 to-green-600 text-white text-lg font-bold hover:from-green-600 hover:to-blue-600"
           >
             Download CV
           </a>
           <a
-            href="/"
+            href="https://t.me/izbassarn"
             className="px-6 py-3 w-full rounded-xl border-gray-700 border-2 bg-gray-800 text-white text-lg font-bold hover:bg-gray-700"
           >
             Contact Me

@@ -3,8 +3,6 @@ import proj1 from '../assets/242456365-48018411-ed96-4684-93ff-475ed87c57b0.png'
 import proj2 from '../assets/Screenshot 2024-03-20 at 3.11.15 PM.png';
 import proj3 from '../assets/Screenshot 2024-03-20 at 3.13.01 PM.png';
 import proj4 from '../assets/18770530256662.webp';
-import proj5 from '../assets/proj5.png';
-import proj6 from '../assets/proj6.png';
 
 function Work() {
   return (
@@ -85,7 +83,7 @@ function Work() {
               HTML/CSS Portfolio
             </span>
             <div className="pt-8 text-center">
-              <a href="/">
+              <a href="https://izbassarn.online/">
                 <button className="items-center text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold">
                   Live
                 </button>
